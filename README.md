@@ -1,4 +1,4 @@
 # yuvrajcollege-demo
 This is my first Git Repository.
 <br>
-Author = Yuvraj Yadav
+Author - Yuvraj (Apana College)
